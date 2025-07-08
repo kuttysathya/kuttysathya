@@ -29,12 +29,66 @@ Welcome to my GitHub! I'm a passionate **frontend developer** with a growing lov
 
 ## 📌 Featured Projects
 
-### 🔹 [VectorShift Pipeline Builder](https://github.com/kuttysathya/VectorShift)
-> React + FastAPI | DAG Validator | Live: [Netlify](https://vectorshift-pipeline.netlify.app)
+### 🔹 [VectorShift Pipeline Builder](https://github.com/kuttysathya/VectorShift-pipeline)
+> React + FastAPI | DAG Validator
+Live: [Netlify](https://vectorshift-pipeline.netlify.app) | [Backend](https://vectorshift-ass.onrender.com)  
+🎥 Demo: [Watch Video](https://drive.google.com/file/d/1sd1Uql0E4-gVjY2b632CApWYdji_MpnL/view?usp=sharing)
 
 - Drag and drop nodes and connect edges
 - Submit and validate graph structure
 - Fullstack deployed on Netlify + Render
+  
+
+### 🔹 [Shopping Cart App (JavaScript)](https://github.com/kuttysathya/Shopping-Cart)
+> HTML, CSS, JavaScript | Add-to-Cart Functionality  
+Live: [View Project](https://shopping-cart-47.netlify.app/)
+🎥 Demo: [Watch Video](https://drive.google.com/file/d/1qi6aYwUt6fYthgj76dSOFybwWDK-1u_g/view?usp=sharing)
+
+- Add items to cart with quantity and price updates
+- Remove items and update total dynamically
+- Built with vanilla JS (no frameworks)
+- Responsive layout using Flexbox/Grid
+
+  
+### 🔹 [YouTube Clone](https://github.com/kuttysathya/YouTube-Clone)
+> React + YouTube API | Responsive UI  
+Live: [View Project](https://youtube-clone-7.netlify.app/) 
+🎥 Demo: [Watch Video](https://drive.google.com/file/d/1qM0FSL9MibIeKP4i3ZMt9REGK1WgjR8H/view?usp=sharing)
+
+- Play videos in embedded player with related suggestions
+- Responsive layout and modern UI with React
+- Clean code and modular structure
+
+
+### 🔹 [Weather App](https://github.com/kuttysathya/Weather-App)
+> React + OpenWeatherMap API | Real-Time Forecast  
+Live: [Check Weather](https://weather-app-738.netlify.app/)
+
+- Get live weather info by city name
+- Displays temperature, humidity, wind, and icons
+- Integrates OpenWeatherMap API
+- Responsive and beginner-friendly UI 
+
+
+### 🔹 [Todo List App](https://github.com/kuttysathya/ToDo-List)
+> JavaScript | Task Manager with LocalStorage  
+Live: [Try It](https://todo-app-71.netlify.app/)
+
+- Add, edit, complete, and delete tasks
+- Saves tasks in browser (LocalStorage)
+- Minimal and clean UI for productivity
+- 
+
+### 🔹 [Quiz App](https://github.com/kuttysathya/Quiz-App)
+> React | Multiple Choice Questions with Score Tracker  
+Live: [Play Quiz](https://willowy-cascaron-3ad79d.netlify.app/)
+🎥 Demo: [Watch Video](https://drive.google.com/file/d/1qixF19kNBaaZqAwjfYNXP7IZhIMgQBeF/view?usp=sharing)
+
+- Interactive quiz with multiple choice questions
+- Tracks and displays score at the end. Shows correct/wrong answers with feedback.
+- Offers a restart button to retake the quiz.
+- Responsive layout for better user experience.
+
 
 ---
 

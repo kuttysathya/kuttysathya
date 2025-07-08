@@ -77,7 +77,7 @@ Live: [Try It](https://todo-app-71.netlify.app/)
 - Add, edit, complete, and delete tasks
 - Saves tasks in browser (LocalStorage)
 - Minimal and clean UI for productivity
-- 
+
 
 ### 🔹 [Quiz App](https://github.com/kuttysathya/Quiz-App)
 > React | Multiple Choice Questions with Score Tracker  

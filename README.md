@@ -80,7 +80,7 @@ Live: [Try It](https://todo-app-71.netlify.app/)
 
 
 ### 🔹 [Quiz App](https://github.com/kuttysathya/Quiz-App)
-> React | Multiple Choice Questions with Score Tracker  
+> JavaScript | Multiple Choice Questions with Score Tracker  
 Live: [Play Quiz](https://willowy-cascaron-3ad79d.netlify.app/)
 🎥 Demo: [Watch Video](https://drive.google.com/file/d/1qixF19kNBaaZqAwjfYNXP7IZhIMgQBeF/view?usp=sharing)
 

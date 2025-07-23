@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate **frontend developer** with a growing lov
 
 ### 🔹 [VectorShift Pipeline Builder](https://github.com/kuttysathya/VectorShift-pipeline)
 > React + FastAPI | DAG Validator
-Live: [Netlify](https://vectorshift-pipeline.netlify.app) | [Backend](https://vectorshift-ass.onrender.com)  
+Live: [Netlify](https://vectorshift-pipeline.netlify.app) | [Backend](https://vectorshift-ass.onrender.com/)  
 🎥 Demo: [Watch Video](https://drive.google.com/file/d/1sd1Uql0E4-gVjY2b632CApWYdji_MpnL/view?usp=sharing)
 
 - Drag and drop nodes and connect edges

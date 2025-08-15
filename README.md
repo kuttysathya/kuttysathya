@@ -15,21 +15,42 @@ Welcome to my GitHub! I'm a passionate **frontend developer** with a growing lov
 
 ## 💼 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Backend:**  
+![MockAPI](https://img.shields.io/badge/MockAPI-FF6F00?style=flat&logo=mockapi&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-005571?style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+**Tools & Deployment:**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 [VectorShift Pipeline Builder](https://github.com/kuttysathya/VectorShift-pipeline)
+### 🏥 MediFlow – Doctor–Patient Appointment System
+**React + React Big Calendar + TailwindCSS + Node.js (MockAPI)**  
+🔗 **Live:** [MediFlow App](https://medi-flow-main-page-m57m.vercel.app)  
+
+**Features:**
+- 📅 Book, edit, and cancel appointments using an interactive calendar
+- 📜 Download medical history for selected date ranges
+- 🧾 View & download prescriptions (patient side)
+- ⭐ Patient review system for doctors
+- 👨‍💼 Admin panel for managing doctors, patients, appointments
+- 📱 Fully responsive for **small**, **medium**, and **large** screens
+
+  
+### 🛠 [VectorShift Pipeline Builder](https://github.com/kuttysathya/VectorShift-pipeline)
 > React + FastAPI | DAG Validator
 Live: [Netlify](https://vectorshift-pipeline.netlify.app) | [Backend](https://vectorshift-ass.onrender.com/)  
 🎥 Demo: [Watch Video](https://drive.google.com/file/d/1sd1Uql0E4-gVjY2b632CApWYdji_MpnL/view?usp=sharing)
@@ -39,7 +60,7 @@ Live: [Netlify](https://vectorshift-pipeline.netlify.app) | [Backend](https://ve
 - Fullstack deployed on Netlify + Render
   
 
-### 🔹 [Shopping Cart App (JavaScript)](https://github.com/kuttysathya/Shopping-Cart)
+### 🛒 [Shopping Cart App (JavaScript)](https://github.com/kuttysathya/Shopping-Cart)
 > HTML, CSS, JavaScript | Add-to-Cart Functionality  
 Live: [View Project](https://shopping-cart-47.netlify.app/)
 🎥 Demo: [Watch Video](https://drive.google.com/file/d/1qi6aYwUt6fYthgj76dSOFybwWDK-1u_g/view?usp=sharing)
@@ -60,7 +81,7 @@ Live: [View Project](https://youtube-clone-7.netlify.app/)
 - Clean code and modular structure
 
 
-### 🔹 [Weather App](https://github.com/kuttysathya/Weather-App)
+### 🌦 [Weather App](https://github.com/kuttysathya/Weather-App)
 > React + OpenWeatherMap API | Real-Time Forecast  
 Live: [Check Weather](https://weather-app-738.netlify.app/)
 
@@ -70,7 +91,7 @@ Live: [Check Weather](https://weather-app-738.netlify.app/)
 - Responsive and beginner-friendly UI 
 
 
-### 🔹 [Todo List App](https://github.com/kuttysathya/ToDo-List)
+### ✅ [Todo List App](https://github.com/kuttysathya/ToDo-List)
 > JavaScript | Task Manager with LocalStorage  
 Live: [Try It](https://todo-app-71.netlify.app/)
 
@@ -78,8 +99,7 @@ Live: [Try It](https://todo-app-71.netlify.app/)
 - Saves tasks in browser (LocalStorage)
 - Minimal and clean UI for productivity
 
-
-### 🔹 [Quiz App](https://github.com/kuttysathya/Quiz-App)
+### ❓ [Quiz App](https://github.com/kuttysathya/Quiz-App)
 > JavaScript | Multiple Choice Questions with Score Tracker  
 Live: [Play Quiz](https://willowy-cascaron-3ad79d.netlify.app/)
 🎥 Demo: [Watch Video](https://drive.google.com/file/d/1qixF19kNBaaZqAwjfYNXP7IZhIMgQBeF/view?usp=sharing)

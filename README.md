@@ -42,12 +42,25 @@ Welcome to my GitHub! I'm a passionate **frontend developer** with a growing lov
 🔗 **Live:** [MediFlow App](https://medi-flow-main-page-m57m.vercel.app)  
 
 **Features:**
-- 📅 Book, edit, and cancel appointments using an interactive calendar
-- 📜 Download medical history for selected date ranges
-- 🧾 View & download prescriptions (patient side)
-- ⭐ Patient review system for doctors
-- 👨‍💼 Admin panel for managing doctors, patients, appointments
-- 📱 Fully responsive for **small**, **medium**, and **large** screens
+- 📅 Book, edit, and cancel appointments  
+- 👨‍⚕️ Doctor & patient portals with profile management  
+- 📄 Prescription view & download  
+- 🩺 Medical history download by date range  
+- ⭐ Patient reviews & doctor feedback  
+- 🛠 Admin panel for managing doctors, patients, and appointments  
+- 📱 Fully responsive for small, medium, and large screens
+
+
+### 🔹 Recurring Date Picker  
+React + TypeScript + TailwindCSS | Next.js (App Router) | Zustand | Vitest  
+[🌐 Live Demo](https://recurring-date-picker-sandy.vercel.app/)  
+
+- 📅 Select start and end dates  
+- 🔁 Supports **Daily, Weekly, Monthly** recurrence rules  
+- 📌 Choose specific days for weekly recurrence (e.g., Mon, Wed, Fri)  
+- 📍 Live calendar preview with highlighted recurring dates  
+- ⚡ Minimal, clean Tailwind UI  
+- ✅ Unit tested with Vitest
 
   
 ### 🛠 [VectorShift Pipeline Builder](https://github.com/kuttysathya/VectorShift-pipeline)
